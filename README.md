@@ -1,1 +1,1 @@
-# sudoku-oyunu
+# sudoku-oyun
